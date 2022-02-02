@@ -1,0 +1,14 @@
+name: VoidFishing
+version: 1.0
+main: me.rxndmz.voidfishing.VoidFishing
+api-version: 1.13
+authors: [Rxndmz]
+commands:
+  Cooler:
+    description: Opens the players cooler.
+  Test:
+    description: for testing stuff.
+  FishingMerchant:
+    description: opens the merchant gui
+  FishingEnchanter:
+    description: opens the enchanter gui

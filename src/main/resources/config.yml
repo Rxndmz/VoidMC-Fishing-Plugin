@@ -1,0 +1,101 @@
+#
+# Cooler Upgrades Cost
+#
+Cooler Upgrades:
+  1: 250000.00
+  2: 500000.00
+  3: 750000.00
+  4: 1000000.00
+  5: 1250000.00
+
+#
+# Fish Chances
+#
+# Xp Config
+#
+# How to use:
+#
+#   Changing these will change xp rates
+#   for all fish of that rarity type.
+#
+#   NOTE: MUST BE A WHOLE NUMBER!
+#
+
+Xp Rates:
+  Common:
+    Lowest: 3
+    Highest: 10
+  Uncommon:
+    Lowest: 25
+    Highest: 50
+  Rare:
+    Lowest: 50
+    Highest: 90
+  Legendary:
+    Lowest: 350
+    Highest: 500
+  Mythic:
+    Lowest: 650
+    Highest: 1000
+
+#
+# Level Config
+#
+# How to use:
+#
+#   To use just input a TOTAL XP integer
+#   value in the "Levels" section.
+#
+#   EXAMPLE BELOW
+#
+# Levels:
+#   - 100    <--- Total XP (Level 2)
+#   - 250    <--- Total XP (Level 3)
+#   - 500    <--- Total XP (Level 4)
+#   - 800    <--- Total XP (Level 5)
+#   - 1300   <--- Total XP (Level 6)
+#
+# The list can be as long as you want :)
+#
+# USE '#' TO COMMENT!
+#
+
+Levels:
+  - 100
+
+#
+# Fish Base Value Config
+#
+# How to use:
+#
+#   Change the values to whatever you want them to be!
+#
+#   NOTE: MUST BE A WHOLE NUMBER!
+#
+
+Fish:
+  Common:
+    Bass: 300
+    Salmon: 250
+    Goldfish: 150
+    Carp: 200
+  Uncommon:
+    Pike: 850
+    Roach: 1000
+    Pufferfish: 900
+    Catfish: 750
+  Rare:
+    Tuna: 4750
+    Trout: 4000
+    Eel: 5350
+    Koi: 6500
+  Legendary:
+    Swordfish: 15000
+    Oarfish: 17000
+    Sawfish: 12500
+    Sunfish: 10000
+  Mythic:
+    Kraken: 65000
+    Tiger Shark: 35000
+    Megalodon: 50000
+    Great White Shark: 40000
